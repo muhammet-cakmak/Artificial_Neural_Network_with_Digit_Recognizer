@@ -44,7 +44,7 @@ statistical technique is used to calculate avarage loss on this technique.
 
 
 # Conclusion
-ANN is a very powerfull algorithm. As we can see sonfusion matrix above, ANN is very capable to distinguish digits but still there is way we need to step up. Hyperparameter tuning is the heart of an ANN algorithms and we can use different range of parameters to make the ANN model tuning better. Tuning takes very long time therefore ı suggest you to use GPU. 
+ANN is a very powerful algorithm. As we can see sonfusion matrix above, ANN is very capable to distinguish digits but still there is way we need to step up. Hyperparameter tuning is the heart of an ANN algorithms and we can use different range of parameters to make the ANN model tuning better. Tuning takes very long time therefore ı suggest you to use GPU. 
 
 
 
