@@ -1,5 +1,8 @@
 # Artificial_Neural_Networ_with_-Digit_Recognizer
 
+Confusion Matrix
+![](confusion_matrix.png)
+
 # The Scope of The Project
 Making ANN model with Digit data sets and work on hyperparameters to determine the best model.
 
