@@ -1,6 +1,6 @@
 # Artificial_Neural_Networ_with_-Digit_Recognizer
 
-Confusion Matrix
+
 ![](confusion_matrix.png)
 
 # The Scope of The Project
